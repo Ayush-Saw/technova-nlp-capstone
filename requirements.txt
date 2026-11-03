@@ -1,0 +1,21 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+qdrant-client==1.12.1
+sentence-transformers==3.3.1
+transformers==4.47.1
+torch>=2.2
+peft>=0.14
+trl>=0.13
+datasets>=3.2
+accelerate>=1.2
+bitsandbytes>=0.45; platform_system == "Linux"
+mlflow>=2.17
+dvc>=3.58
+prometheus-client>=0.21
+python-multipart>=0.0.20
+PyYAML>=6.0
+scikit-learn>=1.5
+numpy>=1.26
+pytest>=8.3
+httpx>=0.28

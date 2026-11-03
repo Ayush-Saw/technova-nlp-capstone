@@ -1,0 +1,1 @@
+{"prompt":"Classify ticket: Login broken","chosen":"{\"category\":\"Authentication\",\"priority\":\"High\",\"product_area\":\"Identity\",\"summary\":\"Login is broken.\"}","rejected":"This is probably a billing issue."}
